@@ -1,3 +1,21 @@
+ariq:
+  name: Ariq Maulana Malik Ibrahim
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/Ariqmau
+  image_url: https://avatars.githubusercontent.com/u/93531849?v=4
+  page: true
+  socials:
+    github: Ariqmau
+
+arzaka:
+  name: Arzaka Raffan Mawardi
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/ArzakaRaffan
+  image_url: https://avatars.githubusercontent.com/u/146526717?s=48&v=4
+  page: true
+  socials:
+    github: ArzakaRaffan
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
